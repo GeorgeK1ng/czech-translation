@@ -545,12 +545,10 @@
 	"spell.wake-of-gods.artifacts.boostSpot.name" : "Posilující bod",
 	"spell.wake-of-gods.artifacts.summonRedDragon.name" : "Přivolej rudé draky",
 	"spell.wake-of-gods.artifacts.towerJammer.name" : "Zlatý šíp z věže",
-	
-	
 
 	"mapObject.wake-of-gods.mapobjects.mirrorOfTheHomeWay.mirrorOfTheHomeWay.name" : "Toll Town Gate",
 	"object.wake-of-gods.mapobjects.mirrorOfTheHomeWay.name" : "Toll Town Gate",
-	
+
 	"artifact.wake-of-gods.mapobjects.berserkerPotion.description" : "{Berserker Potion}\r\n\r\nIncreases Attack by 10 and boosts luck to maximum but prevents to cast spells during combat. Vanishes after 3 battles.",
 	"artifact.wake-of-gods.mapobjects.berserkerPotion.name" : "Berserker Potion",
 	"artifact.wake-of-gods.mapobjects.hydromelPotion.description" : "{Hydromel Potion}\r\n\r\nIncreases Attack and Defense by 2 during combat. Vanishes after 3 battles.",
@@ -642,6 +640,4 @@
 	"spell.wake-of-gods.artifacts.summonRedDragon.description.basic" : "{Summon Crystal Dragon}\r\n\r\nSummons might Moon Dragon at the beginning of the battle.",
 	"spell.wake-of-gods.artifacts.summonRedDragon.description.expert" : "{Summon Crystal Dragon}\r\n\r\nSummons might Moon Dragon at the beginning of the battle.",
 	"spell.wake-of-gods.artifacts.summonRedDragon.description.none" : "{Summon Crystal Dragon}\r\n\r\nSummons might Moon Dragon at the beginning of the battle."
-
-	
 }
